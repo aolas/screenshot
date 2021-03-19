@@ -23,4 +23,3 @@ canvas1.create_window(150, 150, window=myButton)
 if __name__ == '__main__':
     root.mainloop()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
